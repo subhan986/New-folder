@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 33 27% 95%; /* Alabaster White */
+    --foreground: 0 0% 24%; /* Charcoal */
+    --card: 33 27% 95%; /* Alabaster White */
+    --card-foreground: 0 0% 24%; /* Charcoal */
+    --popover: 33 27% 95%;
+    --popover-foreground: 0 0% 24%;
+    --primary: 21 49% 45%; /* Burnt Sienna */
+    --primary-foreground: 33 27% 95%;
+    --secondary: 27 8% 61%; /* Warm Taupe */
+    --secondary-foreground: 33 27% 95%;
+    --muted: 27 8% 61%;
+    --muted-foreground: 0 0% 35%;
+    --accent: 38 33% 56%; /* Brushed Gold */
+    --accent-foreground: 0 0% 24%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 33 10% 88%;
+    --input: 33 10% 88%;
+    --ring: 21 49% 45%;
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 0 0% 15%; /* Dark Charcoal */
+    --foreground: 33 27% 95%; /* Alabaster White */
+    --card: 0 0% 18%;
+    --card-foreground: 33 27% 95%;
+    --popover: 0 0% 18%;
+    --popover-foreground: 33 27% 95%;
+    --primary: 21 49% 55%; /* Lighter Burnt Sienna */
+    --primary-foreground: 0 0% 10%;
+    --secondary: 27 8% 41%; /* Darker Taupe */
+    --secondary-foreground: 33 27% 95%;
+    --muted: 27 8% 41%;
+    --muted-foreground: 33 27% 85%;
+    --accent: 38 33% 66%; /* Lighter Brushed Gold */
+    --accent-foreground: 0 0% 10%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 25%;
+    --input: 0 0% 25%;
+    --ring: 21 49% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

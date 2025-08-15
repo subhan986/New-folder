@@ -1,0 +1,21 @@
+{
+  "companyName": "Demporium",
+  "contactEmail": "support@demporium.com",
+  "phoneNumber": "+1 (234) 567-890",
+  "address": "123 Furniture Lane, Suite 100, Design City, USA",
+  "homepage": {
+    "heroTitle": "Exquisite Furniture for Modern Living",
+    "heroSubtitle": "Discover handcrafted pieces that blend style, comfort, and durability.",
+    "featuredTitle": "Featured Products",
+    "featuredSubtitle": "Handpicked for you, from our latest collection."
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/demporium",
+    "instagram": "https://instagram.com/demporium",
+    "twitter": "https://twitter.com/demporium"
+  },
+  "seo": {
+    "metaTitle": "Demporium | Exquisite Furniture for Modern Living",
+    "metaDescription": "Discover handcrafted pieces that blend style, comfort, and durability at Demporium. Shop our latest collection of modern furniture."
+  }
+}

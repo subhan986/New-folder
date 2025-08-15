@@ -1,0 +1,72 @@
+{
+  "announcementBar": {
+    "text": "Free shipping on all orders over Rs:50,000"
+  },
+  "promoBanner": {
+    "title": "View our New Sahara Collection",
+    "subtitle": "from our latest product launch.",
+    "buttonText": ""
+  },
+  "homeCategories": [
+    {
+      "name": "",
+      "img": "",
+      "href": "/product/living"
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": "/product/bedroom"
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    },
+    {
+      "name": "",
+      "img": "",
+      "href": ""
+    }
+  ]
+}

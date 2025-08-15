@@ -1,0 +1,22 @@
+[
+  {
+    "id": "brand-1723052267871",
+    "name": "Herman Miller",
+    "logo": "/brands/herman-miller.svg"
+  },
+  {
+    "id": "brand-1723052282194",
+    "name": "Knoll",
+    "logo": "/brands/knoll.svg"
+  },
+  {
+    "id": "brand-1723052291543",
+    "name": "Vitra",
+    "logo": "/brands/vitra.svg"
+  },
+  {
+    "id": "brand-1723052300765",
+    "name": "Hay",
+    "logo": "/brands/hay.svg"
+  }
+]

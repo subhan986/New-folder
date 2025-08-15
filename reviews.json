@@ -1,0 +1,34 @@
+[
+  {
+    "id": "rev_1",
+    "creator": {
+      "name": "Sarah Stylist",
+      "handle": "@sarahstyles"
+    },
+    "videoUrl": "https://example.com/video1.mp4",
+    "thumbnail": "/images/reviews/review-thumb-1.jpg",
+    "overlayText": "Loving my new Aura chair!",
+    "relatedProducts": [
+      {
+        "id": "prod_1",
+        "name": "Aura Armchair"
+      }
+    ]
+  },
+  {
+    "id": "rev_2",
+    "creator": {
+      "name": "Design Dan",
+      "handle": "@designdan"
+    },
+    "videoUrl": "https://example.com/video2.mp4",
+    "thumbnail": "/images/reviews/review-thumb-2.jpg",
+    "overlayText": "The Sahara sofa is a game-changer.",
+    "relatedProducts": [
+      {
+        "id": "prod_2",
+        "name": "Sahara Sleeper Sofa"
+      }
+    ]
+  }
+]

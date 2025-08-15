@@ -1,0 +1,327 @@
+[
+  {
+    "id": "dining-table-01",
+    "name": "Lahore Dining Table",
+    "category": "dining",
+    "price": 120000,
+    "images": [
+      "https://images.unsplash.com/photo-1499933374294-4584851497cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8dGFibGV8ZW58MHx8fHwxNzU0MTYwMDk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://placehold.co/800x600.png"
+    ],
+    "description": "Host memorable dinners with this elegant dining table. Accommodates up to 6 people, featuring a solid Sheesham wood top and minimalist steel legs for a blend of rustic and industrial styles.",
+    "specifications": {
+      "Dimensions": "180cm (L) x 100cm (W) x 76cm (H)",
+      "Material": "Sheesham Wood, Powder-coated Steel",
+      "Finish": "Natural Wood Grain",
+      "Seats": "6 people"
+    },
+    "options": {
+      "colors": [
+        "Natural Sheesham",
+        "Dark Walnut"
+      ],
+      "materials": [
+        "Sheesham Wood"
+      ]
+    },
+    "care": "Wipe with a damp cloth. Use coasters to prevent marks.",
+    "stockStatus": "In Stock",
+    "color": "Brown",
+    "material": "Wood",
+    "isFeatured": true,
+    "popularity": 88,
+    "createdAt": "2023-09-15T12:00:00Z"
+  },
+  {
+    "id": "bed-01",
+    "name": "Islamabad Serenity Bed",
+    "category": "bedroom",
+    "price": 95000,
+    "images": [
+      "https://images.unsplash.com/photo-1604935067269-27c7e8b36618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://placehold.co/800x600.png"
+    ],
+    "description": "Create a tranquil retreat with the Serenity Bed. Its upholstered headboard and clean lines offer a modern, cozy feel. Built to last with a solid wood frame.",
+    "specifications": {
+      "Dimensions": "160cm (W) x 200cm (L) x 110cm (H)",
+      "Material": "Plywood, Boucle Fabric",
+      "Size": "Queen"
+    },
+    "options": {
+      "colors": [
+        "Cream Boucle",
+        "Heather Grey"
+      ],
+      "materials": [
+        "Boucle",
+        "Linen"
+      ]
+    },
+    "care": "Vacuum clean upholstery periodically.",
+    "stockStatus": "Made to Order",
+    "color": "Beige",
+    "material": "Fabric",
+    "isNew": true,
+    "popularity": 70,
+    "createdAt": "2023-10-20T12:00:00Z"
+  },
+  {
+    "id": "desk-01",
+    "name": "The Executive Office Desk",
+    "category": "office",
+    "price": 65000,
+    "images": [
+      "https://images.unsplash.com/photo-1541643600914-78b084683601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "A minimalist desk designed for productivity. Features ample workspace and two discreet drawers for storage, combining functionality with sophisticated design.",
+    "specifications": {
+      "Dimensions": "140cm (W) x 60cm (D) x 75cm (H)",
+      "Material": "MDF with Oak Veneer, Metal legs",
+      "Finish": "Light Oak"
+    },
+    "care": "Wipe clean with a dry cloth.",
+    "stockStatus": "In Stock",
+    "color": "Natural",
+    "material": "Wood",
+    "popularity": 65,
+    "createdAt": "2023-08-05T12:00:00Z"
+  },
+  {
+    "id": "outdoor-chair-01",
+    "name": "Clifton Patio Chair",
+    "category": "outdoor",
+    "price": 22000,
+    "images": [
+      "https://images.unsplash.com/photo-1597354984706-fac992d9306f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "Enjoy the outdoors in style. This weather-resistant patio chair is made from durable materials, perfect for your balcony or garden.",
+    "specifications": {
+      "Dimensions": "60cm (W) x 65cm (D) x 85cm (H)",
+      "Material": "Weather-resistant Rattan, Aluminum Frame"
+    },
+    "care": "Cover during heavy rain. Clean with mild soap and water.",
+    "stockStatus": "In Stock",
+    "color": "Black",
+    "material": "Rattan",
+    "isNew": true,
+    "popularity": 82,
+    "createdAt": "2023-10-22T12:00:00Z"
+  },
+  {
+    "id": "dining-chair-01",
+    "name": "Mid-Century Dining Chair",
+    "category": "dining",
+    "price": 18000,
+    "images": [
+      "https://images.unsplash.com/photo-1604935067269-27c7e8b36618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "Ergonomically designed for comfort, this dining chair features a curved backrest and a cushioned seat. Sold individually.",
+    "specifications": {
+      "Dimensions": "50cm (W) x 55cm (D) x 80cm (H)",
+      "Material": "Beech Wood, Faux Leather Seat"
+    },
+    "care": "Wipe seat with a damp cloth.",
+    "stockStatus": "In Stock",
+    "color": "Teal",
+    "material": "Wood",
+    "popularity": 75,
+    "createdAt": "2023-09-15T12:00:00Z"
+  },
+  {
+    "id": "accent-chair-01",
+    "name": "Velvet Accent Chair",
+    "category": "living",
+    "price": 35000,
+    "images": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "A touch of luxury for any corner. This velvet accent chair features a shell-like design with elegant golden legs.",
+    "specifications": {
+      "Dimensions": "75cm (W) x 70cm (D) x 80cm (H)",
+      "Material": "Velvet, Metal"
+    },
+    "care": "Spot clean with a damp cloth.",
+    "stockStatus": "In Stock",
+    "color": "Emerald Green",
+    "material": "Fabric",
+    "popularity": 89,
+    "createdAt": "2023-11-01T12:00:00Z",
+    "status": "Active",
+    "isFeatured": false,
+    "isNew": false,
+    "options": {
+      "colors": [],
+      "materials": []
+    }
+  },
+  {
+    "id": "nightstand-01",
+    "name": "Floating Nightstand",
+    "category": "bedroom",
+    "price": 15000,
+    "images": [
+      "https://images.unsplash.com/photo-1637092301095-3b8b96717e1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb2ZlZSUyMHRhYmxlfGVufDB8fHx8MTc1NDE2MDA4N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "Maximize your bedroom space with this wall-mounted floating nightstand. Features a single drawer for your essentials.",
+    "specifications": {
+      "Dimensions": "40cm (W) x 30cm (D) x 20cm (H)",
+      "Material": "MDF with Walnut Veneer"
+    },
+    "care": "Wipe clean.",
+    "stockStatus": "In Stock",
+    "color": "Walnut",
+    "material": "Wood",
+    "isNew": true,
+    "popularity": 78,
+    "createdAt": "2023-11-05T12:00:00Z"
+  },
+  {
+    "id": "bar-stool-01",
+    "name": "Industrial Bar Stool",
+    "category": "dining",
+    "price": 12000,
+    "images": [
+      "https://images.unsplash.com/photo-1604935067269-27c7e8b36618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "Adjustable height bar stool with a solid wood seat and a sturdy metal frame. Perfect for your kitchen island or home bar.",
+    "specifications": {
+      "Dimensions": "40cm (Diameter) x 65-80cm (H)",
+      "Material": "Pine Wood, Steel"
+    },
+    "care": "Wipe clean.",
+    "stockStatus": "In Stock",
+    "color": "Dark Brown",
+    "material": "Metal",
+    "popularity": 72,
+    "createdAt": "2023-09-25T12:00:00Z"
+  },
+  {
+    "id": "ottoman-01",
+    "name": "Storage Ottoman",
+    "category": "living",
+    "price": 18000,
+    "images": [
+      "https://images.unsplash.com/photo-1618520408841-61a1c5ee84d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8c3Rvb2x8ZW58MHx8fHwxNzU0MTU3MDU5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "A versatile and practical piece. Use it as a footrest, extra seating, or for storing blankets and magazines.",
+    "specifications": {
+      "Dimensions": "80cm (L) x 40cm (W) x 45cm (H)",
+      "Material": "Linen Fabric, Plywood"
+    },
+    "care": "Spot clean.",
+    "stockStatus": "In Stock",
+    "color": "Light Grey",
+    "material": "Fabric",
+    "popularity": 81,
+    "createdAt": "2023-10-10T12:00:00Z"
+  },
+  {
+    "id": "wardrobe-01",
+    "name": "Sliding Door Wardrobe",
+    "category": "bedroom",
+    "price": 150000,
+    "images": [
+      "https://images.unsplash.com/photo-1604935067269-27c7e8b36618?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "A modern wardrobe with sliding doors to save space. Features ample hanging space, shelves, and drawers for optimal organization.",
+    "specifications": {
+      "Dimensions": "200cm (W) x 60cm (D) x 220cm (H)",
+      "Material": "Laminated Particle Board, Aluminum handles"
+    },
+    "care": "Wipe with a soft cloth.",
+    "stockStatus": "Made to Order",
+    "color": "White",
+    "material": "Wood",
+    "popularity": 79,
+    "createdAt": "2023-08-20T12:00:00Z"
+  },
+  {
+    "id": "floor-lamp-01",
+    "name": "Tripod Floor Lamp",
+    "category": "living",
+    "price": 25000,
+    "images": [
+      "https://images.unsplash.com/photo-1599318110381-64cf912a8f54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9kdWN0JTIwaW1hZ2V8ZW58MHx8fHwxNzU0MTYyMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "description": "A stylish floor lamp with wooden tripod legs and a fabric shade. Provides warm, ambient lighting.",
+    "specifications": {
+      "Dimensions": "65cm (W) x 150cm (H)",
+      "Material": "Wood, Fabric Shade"
+    },
+    "care": "Dust shade regularly.",
+    "stockStatus": "In Stock",
+    "color": "Natural",
+    "material": "Wood",
+    "popularity": 88,
+    "createdAt": "2023-10-05T12:00:00Z"
+  },
+  {
+    "id": "prod_1754650619463",
+    "createdAt": "2025-08-08T10:56:59.463Z",
+    "name": "test 1",
+    "category": "",
+    "price": null,
+    "description": "",
+    "images": [],
+    "specifications": {},
+    "status": "Active",
+    "care": "",
+    "stockStatus": "",
+    "color": "",
+    "material": "",
+    "isFeatured": false,
+    "isNew": false,
+    "popularity": 0,
+    "options": {
+      "colors": [],
+      "materials": []
+    }
+  },
+  {
+    "id": "prod_1754654252591",
+    "createdAt": "2025-08-08T11:57:32.591Z",
+    "name": "test2",
+    "category": "",
+    "price": null,
+    "description": "",
+    "images": [],
+    "specifications": {},
+    "status": "Active",
+    "care": "",
+    "stockStatus": "",
+    "color": "",
+    "material": "",
+    "isFeatured": false,
+    "isNew": false,
+    "popularity": 0,
+    "options": {
+      "colors": [],
+      "materials": []
+    }
+  },
+  {
+    "id": "prod_1754654685300",
+    "createdAt": "2025-08-08T12:04:45.300Z",
+    "name": "test 4",
+    "category": "bedroom",
+    "price": 27912,
+    "description": "our new arival",
+    "images": [],
+    "specifications": {},
+    "status": "Active",
+    "care": "",
+    "stockStatus": "In Stock",
+    "color": "Natural",
+    "material": "Wood",
+    "isFeatured": true,
+    "isNew": false,
+    "popularity": 90,
+    "options": {
+      "colors": [
+        "Cream Boucle",
+        "Heather Grey"
+      ],
+      "materials": []
+    }
+  }
+]
